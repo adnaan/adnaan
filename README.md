@@ -1,4 +1,7 @@
-### Hi there 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnaan&show_icons=true&locale=en" alt="top-langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnaan&show_icons=true&locale=en" alt="github-stats" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adnaan)](https://git.io/streak-stats)
 
 <!--
 **adnaan/adnaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
